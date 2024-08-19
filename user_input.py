@@ -1,0 +1,5 @@
+name = input("Input ypur name")
+age = input("Input your age")
+location = input("Where do you stay")
+print ("Hello " + name + "," + "you are  "+ age +" years and live in " + location)
+# print("Hello {name}, you are {age} years old and live in {location}")
